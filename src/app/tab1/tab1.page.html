@@ -6,12 +6,14 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Tab 1</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content class="ion-padding">
 
-  <app-explore-container name="Tab 1 page"></app-explore-container>
+  <ion-button expand="block" class="ion-margin-top" (click)="paymentSheet()">Payment Sheet</ion-button>
+
+  <ion-button expand="block" class="ion-margin-top" (click)="paymentFlow()">Payment Flow</ion-button>
+
+  <ion-button expand="block" class="ion-margin-top" (click)="applePay()">Apple Pay</ion-button>
+
+  <ion-button expand="block" class="ion-margin-top" (click)="googlePay()">googlePay</ion-button>
+  
 </ion-content>
