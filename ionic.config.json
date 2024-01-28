@@ -1,0 +1,7 @@
+{
+  "name": "stripeCapacitorIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
