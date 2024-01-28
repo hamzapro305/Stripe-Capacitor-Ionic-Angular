@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-port-xxhdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-port-xxhdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/xml_file_paths.xml.flat",
+        "source": "io.ionic.starter.app-main-87:/xml/file_paths.xml"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-port-hdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-port-hdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-port-xxxhdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-port-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/layout_activity_main.xml.flat",
+        "source": "io.ionic.starter.app-main-87:/layout/activity_main.xml"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-port-mdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-port-mdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-land-mdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-land-mdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-land-hdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-land-hdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/xml_config.xml.flat",
+        "source": "io.ionic.starter.app-main-87:/xml/config.xml"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-land-xhdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-land-xhdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "io.ionic.starter.app-pngs-81:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-land-xxxhdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-land-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-port-xhdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-port-xhdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable-land-xxhdpi_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable-land-xxhdpi/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable_ic_launcher_background.xml.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/drawable_splash.png.flat",
+        "source": "io.ionic.starter.app-main-87:/drawable/splash.png"
+    },
+    {
+        "merged": "io.ionic.starter.app-merged_res-85:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "io.ionic.starter.app-main-87:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

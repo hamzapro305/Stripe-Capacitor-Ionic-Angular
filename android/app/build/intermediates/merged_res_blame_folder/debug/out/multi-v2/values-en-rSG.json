@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.ionic.starter.app-mergeDebugResources-83:/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hamza Siddiqui\\.gradle\\caches\\transforms-3\\d68c87f1ed9fc5347e6a318dcdc5d0d6\\transformed\\play-services-wallet-19.2.1\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "206,263",
+                        "endColumns": "56,70",
+                        "endOffsets": "262,333"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,74",
+                        "endOffsets": "111,186"
+                    }
+                }
+            ]
+        }
+    ]
+}
