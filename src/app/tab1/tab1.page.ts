@@ -9,6 +9,8 @@ import {
 } from '@capacitor-community/stripe';
 import { first, lastValueFrom } from 'rxjs';
 import { environment } from 'src/environments/environment';
+import { Wechat } from '@awesome-cordova-plugins/wechat/ngx';
+
 
 @Component({
   selector: 'app-tab1',
@@ -16,7 +18,7 @@ import { environment } from 'src/environments/environment';
   styleUrls: ['tab1.page.scss'],
 })
 export class Tab1Page {
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient, private wechat: Wechat) { }
 
   data: any = {
     name: 'Hamza',
@@ -228,6 +230,10 @@ export class Tab1Page {
       // Happy path
       this.splitAndJoin(paymentIntent);
     }
+  }
+
+  async weChatPay() {
+    this.wechat.isInstalled().then(console.log).catch(console.log);
   }
 
   splitAndJoin(paymentIntent: string) {
